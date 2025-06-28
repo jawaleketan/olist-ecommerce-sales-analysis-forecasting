@@ -1,0 +1,6 @@
+Overall Trend: The e-commerce platform experienced rapid growth in 2017, with sales significantly increasing from 2016. Growth continued in 2018, but a decelerating trend was observed in the latter part of the year.
+Seasonality: There's a clear seasonal peak in sales around November (likely due to holiday shopping or promotional events), especially prominent in 2017.
+Areas of Improvement:
+  - Boosting Sales During Low-Performing Months: Strategies for months with historically lower sales (e.g., early 2017, and potentially post-peak periods) could include targeted discounts, flash sales, or marketing campaigns to stimulate demand.
+  - Addressing the 2018 Downtrend: Further investigation is needed to understand the reasons for the slowdown in 2018, which could involve analyzing external economic factors, competitor activity, or changes in customer behavior.
+  - Cancellation Management: While cancellations are generally low, understanding the reasons behind cancellations in months like October 2016 could help in refining order fulfillment processes.

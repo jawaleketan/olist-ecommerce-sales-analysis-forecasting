@@ -1,0 +1,9 @@
+Dataset has 112650 rows and 41 columns.
+Many columns have missing values. All date/time columns are currently stored as object (string) data types. These will need to be converted to proper datetime objects for further analysis.
+Duplicates found: 0. 
+Key columns for analysis: 
+1) Sales and Revenue: price, freight_value, payment_value, order_item_id. 
+2) Customer Segmentation: customer_id, customer_unique_id, order_purchase_timestamp 
+(for purchase frequency and recency), payment_value (for monetary value), 
+customer_city, customer_state, review_score. 
+3) Geographical Information: customer_city, customer_state, seller_city, seller_state.

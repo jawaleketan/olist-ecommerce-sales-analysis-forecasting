@@ -1,0 +1,46 @@
+Top Business Opportunities Summary
+
+Expand Inventory in High-Growth Product Categories
+Insight: Categories like Health & Beauty, Home Decor, and Tech Accessories have shown strong, consistent revenue growth.
+Recommendation:
+  - Scale up inventory in top categories.
+  - Launch new product lines in emerging verticals (e.g., smart home, skincare).
+Next Steps:
+  - Collaborate with top-performing sellers.
+  - Add filters like 'Trending Now' or 'New Launches' to feature them.
+
+Target High-Sales Regions with Localized Marketing
+Insight: States like São Paulo, Rio de Janeiro, and cities like Belo Horizonte are revenue hubs.
+Recommendation:
+  - Run regional marketing campaigns and festive promotions.
+  - Ensure fast delivery options and stock availability in these areas.
+Next Steps:
+  - Invest in local warehouses or courier partners.
+  - Launch city-based discount codes (e.g., 'SP10' for São Paulo).
+
+Upsell to High-Value Customers Using RFM Segmentation
+Insight: Segment 444 customers are highly loyal and high spenders.
+Recommendation:
+  - Promote premium bundles or membership perks (free shipping, early access).
+  - Target RFM 441 and 144 segments with upsell or retention nudges.
+Next Steps:
+  - Launch a personalized product recommender.
+  - A/B test bundled offers with frequent pairings (e.g., laptop + headphones).
+
+Optimize Pricing & Promotions Based on Demand Cycles
+Insight: Certain months show sales surges—likely due to seasonal trends or past promotions.
+Recommendation:
+  - Use dynamic pricing: raise prices during demand spikes, offer off-season deals.
+  - Prioritize flash sales or email campaigns in proven successful months.
+Next Steps:
+  - Automate pricing adjustments using trend rules.
+  - Build a promo calendar for each major category.
+
+Retain At-Risk Customers with Loyalty & Win-Back Programs
+Insight: Customers with high recency (>90 days) and low frequency/monetary scores are at churn risk.
+Recommendation:
+  - Design win-back emails and one-time reactivation discounts.
+  - Reward loyal users with a points-based loyalty system.
+Next Steps:
+  - Monitor cohort retention trends monthly.
+  - Integrate feedback from low-score reviews to improve product/service.
